@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @onurcalisir27
+- 👋 Hi, I’m Onur Calisir
 - 👀 I’m interested in Optimizing Controllers through Machine Learning
 - 🌱 I’m currently learning Reinforcement Learning, Deep Learning 
 - 💞️ I’m looking to collaborate on Machine Learning projects
