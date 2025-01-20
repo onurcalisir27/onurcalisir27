@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Onur Calisir
-- 👀 I’m interested in Optimizing Controllers through Machine Learning
-- 🌱 I’m currently learning Reinforcement Learning, Deep Learning 
-- 💞️ I’m looking to collaborate on Machine Learning projects
-- 📫 Reach me at onur.calisir@columbia.edu
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am fluent in French!
+- 👀 I’m interested in Optimizing Controllers through Machine Learning, Automation and Robotics.
+- 🌱 I’m currently learning Reinforcement Learning, Deep Learning, Model Predictive Control, Convex Optimization.
+- 💞️ I’m looking to collaborate on Machine Learning or Automation projects.
+- 📫 Reach me at onur.calisir@columbia.edu!
+- ⚡ Fun fact: I am fluent in French, Turkish, and English.
 
 <!---
 onurcalisir27/onurcalisir27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
