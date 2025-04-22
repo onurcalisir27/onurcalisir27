@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Onur Calisir
-- 👀 I’m interested in Optimizing Controllers through Machine Learning, Automation and Robotics.
-- 🌱 I’m currently learning Reinforcement Learning, Deep Learning, Model Predictive Control, Convex Optimization.
-- 💞️ I’m looking to collaborate on Machine Learning or Automation projects.
+- 👀 I’m interested in Optimal Control Methods in Machine Learning, Automation and Robotics.
+- 🌱 I’m have experience Reinforcement Learning, Deep Learning, Model Predictive Control, Convex Optimization.
+- 💞️ I’m looking to work in Autonmous Robotics.
 - 📫 Reach me at onur.calisir@columbia.edu!
 - ⚡ Fun fact: I am fluent in French, Turkish, and English.
 
