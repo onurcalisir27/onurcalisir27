@@ -1,5 +1,5 @@
 ## About Me
-Hi, hello, I'm Onur (I pronounce it Honor). I am a graduate student pursuing his MS in Mechanical Engineering at Columbia University with a concentration in Robotics and Control Systems. 
+Hi, hello, I'm Onur (pronounced Honor). I am a graduate student pursuing his MS in Mechanical Engineering at Columbia University with a concentration in Robotics and Control Systems. 
 
  I am currently working to become a Robotics Software Engineer. I am passionate about Autonomous Systems, Learning Controllers, and all things robotics! I am experienced in programming in C++, Python, ROS, and MATLAB; knowledgable in machine learning algorithms, optimization methods, and robot learning. Alonside my software skills, I'm pretty good at CAD software like OnShape and SolidWorks, as well as 3D Printing and Electronics/Mechatronics. 
   
