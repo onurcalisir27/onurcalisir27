@@ -1,7 +1,37 @@
-## About Me
-Hi, hello, I'm Onur (pronounced Honor). I am a graduate student pursuing his MS in Mechanical Engineering at Columbia University with a concentration in Robotics and Control Systems. 
-
- I am currently working to become a Robotics Software Engineer. I am passionate about Autonomous Systems, Learning Controllers, and all things robotics! I am experienced in programming in C++, Python, ROS, and MATLAB; knowledgable in machine learning algorithms, optimization methods, and robot learning. Alonside my software skills, I'm experienced at CAD softwares (OnShape and SolidWorks), as well as Rapid Prototyping, Electronics, and Mechatronics. 
+ ```cpp
+#include <string>
+#include <vector>
+#include <stack>
+using namespace std;
+class AboutMe{
+public:
+  AboutMe(string Onur, string Calisir){
+    name = Onur;
+    auto preferred_name = "Honor";
+    lastname = Calisir;
+    skills();
+    interested_in();
+  }
+  ~AboutMe(){}
+  void skills(){
+    programming_languages.at(0) = "C++";
+    programming_languages.at(1) = "Python";
+    // programming_languages.at(2) = "Go";
+    programming_languages.at(3) = "Matlab";
+    software.at(0) = "Linux/Ubuntu";
+    software.at(1) = "ROS1/ROS2";
+  }
+  void interested_in(){
+    interests.push("Robotics");
+    interests.push("Nvim");
+    interests.push("");
+  }
+private:
+  string name, lastname, undergrad, masters;
+  vector<string> programming_languages, software;
+  stack<string> interests;
+};
+```
 <!---
 onurcalisir27/onurcalisir27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
