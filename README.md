@@ -23,8 +23,8 @@ public:
   }
   void interested_in(){
     interests.push("Robotics");
-    interests.push("Nvim");
-    interests.push("");
+    interests.push("Neovim");
+    interests.push("Navigation, Planning, Control");
   }
 private:
   string name, lastname, undergrad, masters;
